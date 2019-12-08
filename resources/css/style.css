@@ -469,6 +469,11 @@ cite img {
     color: #fff;
 }
 
+#find-us {
+    color: #000;
+    background-color: #ebebeb;
+}
+
 input[type=text],
 input[type=email],
 select,
