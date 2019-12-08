@@ -461,6 +461,7 @@ cite img {
     background-color: #000;
     border-radius: 50%;
     box-shadow: 0 5px 10px #e60000;
+    margin: 0 auto;
 }
 
 .contact-form {
