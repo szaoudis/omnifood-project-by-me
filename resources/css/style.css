@@ -509,8 +509,8 @@ cite img {
     padding-bottom: 50px;
     background-color: #000;
     border-radius: 50%;
-    -webkit-box-shadow: 0 5px 10px #e60000;
-    box-shadow: 0 5px 10px #e60000;
+    -webkit-box-shadow: 0 5px 5px #e67e22;
+    box-shadow: 0 5px 5px #e67e22;
     margin: 0 auto;
 }
 
